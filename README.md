@@ -1,7 +1,6 @@
 # CrowdFunding Web3.0
 
 ![Screenshot (49)](https://github.com/shubham-3103/CrowdFunding/assets/73528601/0402405e-5d59-4432-8f9f-7dd6048b31c6)
-![Screenshot (51)](https://github.com/shubham-3103/CrowdFunding/assets/73528601/0853a1a2-d289-44a3-9bc6-f57d3c9d5252)
 ![Screenshot (51)](https://github.com/shubham-3103/CrowdFunding/assets/73528601/ea9bc5f6-5129-4e90-9abb-0058b5f8a752)
 ![Screenshot (50)](https://github.com/shubham-3103/CrowdFunding/assets/73528601/75daafaa-d688-49cd-9918-3724c1a50d81)
 
